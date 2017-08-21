@@ -1,1 +1,1 @@
-!(image)[DSCN0003.JPG]
+![image](DSCN0003.JPG)
